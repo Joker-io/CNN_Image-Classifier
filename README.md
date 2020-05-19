@@ -5,5 +5,5 @@ Image Classifier using Convolution Neural Network
   * Google Colab
 ------------------------------------------------------------------------------------------------------------------------------------------
 Code Contributors:
-Ashley Garcia
-Steven Smith
+* Ashley Garcia
+* Steven Smith
